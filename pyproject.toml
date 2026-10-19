@@ -1,0 +1,7 @@
+[project]
+name = "genpark-waterfall-lead-enrichment-and-icp-fit-scorer-skill"
+version = "1.0.0"
+description = "Sequential waterfall lead enrichment pipeline, Ideal Customer Profile (ICP) multi-attribute fit scorer, and personalized outreach hook generator"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
